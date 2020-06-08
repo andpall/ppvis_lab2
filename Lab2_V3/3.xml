@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <snp>z x c</snp>
+        <group>v</group>
+        <skippingCauseOfSick>1</skippingCauseOfSick>
+        <skippingCauseOfOther>2</skippingCauseOfOther>
+        <skippingWithNoReason>3</skippingWithNoReason>
+        <skippingAtAll>8</skippingAtAll>
+    </student>
+    <student>
+        <snp>q w e</snp>
+        <group>r</group>
+        <skippingCauseOfSick>5</skippingCauseOfSick>
+        <skippingCauseOfOther>6</skippingCauseOfOther>
+        <skippingWithNoReason>7</skippingWithNoReason>
+        <skippingAtAll>20</skippingAtAll>
+    </student>
+    <student>
+        <snp>Пупкин Василий Петрович</snp>
+        <group>4</group>
+        <skippingCauseOfSick>100</skippingCauseOfSick>
+        <skippingCauseOfOther>20</skippingCauseOfOther>
+        <skippingWithNoReason>0</skippingWithNoReason>
+        <skippingAtAll>20</skippingAtAll>
+    </student>
+</students>
